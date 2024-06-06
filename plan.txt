@@ -1,0 +1,32 @@
+Tech Stack
+    - [D] Laravel
+    - [D] MySQL
+    - [D] JS
+
+-> Funkcionalnosti
+    - Naloge/Profile
+        - User
+            -> Funkcije
+                - Pregled rezervacije
+                - Plaćanje
+
+        - Admin
+            -> Funkcije
+                - Dodavanje automobil
+                - Pregled rezervacije
+
+
+
+    - Automobili
+        - Informacije u autu
+        - Pregled automobila
+        - Rezervacija automobila
+        - Plaćanje
+
+    - Recenzije
+
+
+
+
+
+
